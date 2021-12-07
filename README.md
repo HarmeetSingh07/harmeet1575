@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @harmeet1575
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Harmeeet Singh 
+- 👀 I’m interested in Programing/Data Science/ML & AI
+- 🌱 I’m currently learning Data Analysis 
+- 💞️ I’m looking to collaborate on Data Analysis and Data Visualization
+- 📫 How to reach me harmeet1575@gmail.com
 
 <!---
 harmeet1575/harmeet1575 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
